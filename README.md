@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h1 align="center">Hey There👋, I'm Sahil</h1>
 <h3 align="center">A Passionate Developer and Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/sahil mangla" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/sahil-mangla-2a074b238/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sahil mangla" height="30" width="40" /></a>
     <a href="https://instagram.com/sahilmangla148" target="blank"><img align="center"
