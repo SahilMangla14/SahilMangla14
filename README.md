@@ -5,7 +5,7 @@ I am Sahil,👦 pursuing my <b>Computer Science Degree</b>💻 currently in pre-
 
 <br />
 <br />
-I am always enthusiastic about learning new things and working on exciting projects. Currently, I am focussed on Web development, Competitive Programming and Image Processing. In the future, I would also love to explore other fields like AI, ML etc. 
+I am always enthusiastic about learning new things and working on exciting projects. Currently, I am focused on Web development, Competitive Programming, and Image Processing. In the future, I would also love to explore other fields like AI, ML, etc. 
 
 <br />
 <br />
@@ -18,8 +18,8 @@ I am excited to showcase my work on GitHub and collaborate with fellow developer
 # 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sahilmangla/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sahil" height="35" width="35" /></a> &nbsp;
-<a href="https://twitter.com/Sahil3670861 target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="sahil" height="35" width="35" /></a> &nbsp;
-<a href="https://www.instagram.com/sahilmangla148/ target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sahil" height="35" width="35" /></a> &nbsp;
+<a href="https://twitter.com/Sahil3670861/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="sahil" height="35" width="35" /></a> &nbsp;
+<a href="https://www.instagram.com/sahilmangla148/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sahil" height="35" width="35" /></a> &nbsp;
 
 
 <br />
